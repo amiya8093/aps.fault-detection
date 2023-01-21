@@ -13,3 +13,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+
+This changes is done by Amiya in github
